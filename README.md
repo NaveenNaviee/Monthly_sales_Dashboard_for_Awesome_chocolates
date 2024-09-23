@@ -1,5 +1,5 @@
 # Monthly_sales_Dashboard_for_Awesome_chocolates
-visualizing the sales of the AWesome chocolates in different regions.
+visualizing the sales of the Awesome chocolates in different regions.
 
 About this project:
 
